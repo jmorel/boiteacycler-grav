@@ -1,0 +1,11 @@
+email: morel.jeremy@gmail.com
+fullname: Jeremy
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$23a.u28UkFLKcxGoCRjWSOuCM7lsZQJDi9ND5sPQNi4Dh4cNZ8T1u
