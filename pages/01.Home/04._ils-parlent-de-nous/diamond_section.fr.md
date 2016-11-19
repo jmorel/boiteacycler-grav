@@ -1,11 +1,11 @@
 ---
 title: 'Ils parlent de nous'
 size: small
-position: left
-previous_position: center
+position: right
+previous_position: left
 previous_size: small
-next_position: center
-next_size: small
+next_position: left
+next_size: large
 quotes:
     -
         quote: 'Tout près de nous à Viroflay une initiative de la transition que nous soutenons ! Tous nos vœux de réussite ! Un atelier vélo participatif et ambulant. Tout ce qu’on aime !'

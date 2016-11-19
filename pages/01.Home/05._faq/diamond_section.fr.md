@@ -1,11 +1,11 @@
 ---
 title: FAQ
-size: small
+size: large
 position: left
-previous_position: left
+previous_position: right
 previous_size: small
-next_position: left
-next_size: small
+next_position: right
+next_size: large
 questions:
     -
         question: 'C''est quoi un vélo ?'

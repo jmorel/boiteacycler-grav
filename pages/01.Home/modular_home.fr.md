@@ -1,10 +1,10 @@
 ---
-title: 'Test modular'
+title: Home
 content:
     items: '@self.modular'
     order:
-        by: date
-        dir: desc
+        by: default
+        dir: asc
 body_classes: modular
 order_by: ''
 order_manual: ''

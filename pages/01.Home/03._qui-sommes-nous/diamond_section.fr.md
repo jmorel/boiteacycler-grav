@@ -1,10 +1,10 @@
 ---
 title: 'Qui sommes nous'
 size: small
-position: left
+position: center
 previous_position: left
 previous_size: small
-next_position: left
+next_position: right
 next_size: small
 ---
 
