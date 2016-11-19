@@ -1,0 +1,3 @@
+[submodule "themes/boiteacycler"]
+	path = themes/boiteacycler
+	url = git@github.com:jmorel/grav-theme-boiteacycler.git
