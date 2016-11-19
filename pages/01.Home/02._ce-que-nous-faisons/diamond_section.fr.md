@@ -2,9 +2,9 @@
 title: 'Ce que nous faisons'
 size: small
 position: left
-previous_position: left
+previous_position: center
 previous_size: small
-next_position: left
+next_position: center
 next_size: small
 ---
 

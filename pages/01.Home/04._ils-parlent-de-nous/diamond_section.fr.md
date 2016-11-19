@@ -2,7 +2,7 @@
 title: 'Ils parlent de nous'
 size: small
 position: right
-previous_position: left
+previous_position: center
 previous_size: small
 next_position: left
 next_size: large

@@ -1,5 +1,6 @@
 ---
 title: FAQ
+background:
 size: large
 position: left
 previous_position: right
