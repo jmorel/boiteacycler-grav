@@ -1,0 +1,11 @@
+email: nicolas@vylo.fr
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+fullname: 'Nicolas Brulard'
+state: enabled
+hashed_password: $2y$10$vahEdytpt/xYu4FsS8UxKu0T9Fg8NBQNb3WnZmu3MNDbtChBIV1v2
+language: fr

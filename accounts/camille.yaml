@@ -1,0 +1,11 @@
+email: camille.boin@gmail.com
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+fullname: 'Camille Boin'
+state: enabled
+hashed_password: $2y$10$ZLiSEfRDxpDjedFuZEO.X./.Z2GpJmEYJTV7MVmmlq3n/AUmkqhdO
+language: fr
