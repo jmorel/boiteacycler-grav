@@ -30,5 +30,11 @@ columns:
         content: "### Contact\r\n\r\nVous pouvez bien évidemment [nous écrire](mailto://test@example.com) mais nous préférons rencontrer les gens lors des nombreux événements et discuter de vive voix !\r\n"
     -
         content: "### Adhérents et bénévoles\r\n\r\n[Un site](http://example.com) est dédié à l'organisation de toutes les activités de l'association. L'accès est privé, si vous n'y avez pas encore accès n'hésitez pas à nous relancer."
+background:
+    'user/pages/01.home/P1080646 (1).JPG':
+        name: 'P1080646 (1).JPG'
+        type: image/jpeg
+        size: 1463402
+        path: 'user/pages/01.home/P1080646 (1).JPG'
 ---
 
