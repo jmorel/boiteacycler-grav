@@ -17,5 +17,5 @@ Nous suivons dans les grandes lignes les principes de l'Heureux cyclage, la féd
 * **Le recyclage**
 
   Nous recupérons et retapons les vélos délaissés pour ensuite les revendre à bas coût.
-  
+
 * **La promotion du vélo**
