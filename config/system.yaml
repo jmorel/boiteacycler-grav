@@ -13,7 +13,7 @@ languages:
   http_accept_language: false
   override_locale: true
 home:
-  alias: /home
+  alias: /accueil
   hide_in_urls: false
 pages:
   theme: boiteacycler
@@ -30,6 +30,7 @@ pages:
     markdown: true
     twig: true
   twig_first: false
+  never_cache_twig: false
   events:
     page: true
     twig: true
@@ -76,6 +77,7 @@ cache:
   prefix: g
   lifetime: 604800
   gzip: false
+  allow_webserver_gzip: false
 twig:
   cache: true
   debug: true

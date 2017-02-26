@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 content:
     items: '@self.modular'
     order:
@@ -13,11 +13,11 @@ header_calendar_url: 'https://calendar.google.com/calendar/embed?showTitle=0&amp
 header_calendar_id: lc4dk8cpgped73qjcqtgo5eogo@group.calendar.google.com
 header_google_api_key: AIzaSyB9LgfZ9mtmzckSjitTiSCf7ue74mdnM7I
 background:
-    user/pages/01.home/header-50.jpg:
+    user/pages/01.accueil/header-50.jpg:
         name: header-50.jpg
         type: image/jpeg
         size: 502534
-        path: user/pages/01.home/header-50.jpg
+        path: user/pages/01.accueil/header-50.jpg
 header_tagline: 'Atelier vélo participatif libre et gratuit'
 footer_columns:
     -
