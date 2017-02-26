@@ -7,11 +7,11 @@ previous_size: small
 next_position: center
 next_size: small
 background:
-    'user/pages/01.home/02._ce-que-nous-faisons/P1080647 (1).JPG':
-        name: 'P1080647 (1).JPG'
+    user/pages/01.home/02._ce-que-nous-faisons/cequenousfaisons-50.jpg:
+        name: cequenousfaisons-50.jpg
         type: image/jpeg
-        size: 5028352
-        path: 'user/pages/01.home/02._ce-que-nous-faisons/P1080647 (1).JPG'
+        size: 220846
+        path: user/pages/01.home/02._ce-que-nous-faisons/cequenousfaisons-50.jpg
 ---
 
 Nous suivons dans les grandes lignes les principes de l'Heureux cyclage, la fédération des ateliers vélo participatifs et solidaires, sous trois formes différentes :

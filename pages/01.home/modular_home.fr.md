@@ -12,6 +12,12 @@ header_events_call_to_action: "Si vous avez des outils ou des vieux vélos à do
 header_calendar_url: 'https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;hl=fr&amp;bgcolor=%23FFFFFF&amp;src=lc4dk8cpgped73qjcqtgo5eogo%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FParis'
 header_calendar_id: lc4dk8cpgped73qjcqtgo5eogo@group.calendar.google.com
 header_google_api_key: AIzaSyB9LgfZ9mtmzckSjitTiSCf7ue74mdnM7I
+background:
+    user/pages/01.home/header-50.jpg:
+        name: header-50.jpg
+        type: image/jpeg
+        size: 502534
+        path: user/pages/01.home/header-50.jpg
 header_tagline: 'Atelier vélo participatif libre et gratuit'
 footer_columns:
     -
@@ -30,11 +36,5 @@ columns:
         content: "### Contact\r\n\r\nVous pouvez bien évidemment [nous écrire](mailto://test@example.com) mais nous préférons rencontrer les gens lors des nombreux événements et discuter de vive voix !\r\n"
     -
         content: "### Adhérents et bénévoles\r\n\r\n[Un site](http://example.com) est dédié à l'organisation de toutes les activités de l'association. L'accès est privé, si vous n'y avez pas encore accès n'hésitez pas à nous relancer."
-background:
-    'user/pages/01.home/P1080646 (1).JPG':
-        name: 'P1080646 (1).JPG'
-        type: image/jpeg
-        size: 1463402
-        path: 'user/pages/01.home/P1080646 (1).JPG'
 ---
 

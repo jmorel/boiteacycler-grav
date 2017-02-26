@@ -1,0 +1,11 @@
+email: er78.char@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Eric Chardon'
+title: null
+state: enabled
+hashed_password: $2y$10$xr8Kf6QRbUKPeKEn7bsclOtARlLIyZLqucHkai/VA4tc7JtWJBEam
