@@ -1,13 +1,11 @@
 title: 'La boîte à Cycler'
-default_lang: en
+default_lang: fr
 author:
-  name: 'Joe Bloggs'
-  email: joe@test.com
+  name: 'La boîte à Cycler'
+  email: contact@laboiteacycler.org
 taxonomies:
   - category
   - tag
-metadata:
-  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
 summary:
   enabled: true
   format: short
