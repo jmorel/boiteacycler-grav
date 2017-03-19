@@ -101,7 +101,7 @@ assets:
   collections:
     jquery: 'system://assets/jquery/jquery-2.x.min.js'
 errors:
-  display: '1'
+  display: false
   log: true
 debugger:
   enabled: false

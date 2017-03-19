@@ -12,7 +12,7 @@ Nous suivons dans les grandes lignes les principes de l'Heureux cyclage, la féd
 
 * **Les ateliers vélo**
 
-  Ils sont participatifs ! On y apprend à réparer et à entretenir soit même son vélo. Ils sont aussi ambulants sur Viroflay et ses environs. Nous intervenons également sur commande lors d'événements variés.
+  Ils sont participatifs ! On y apprend à réparer et à entretenir soi-même son vélo. Ils sont aussi ambulants sur Viroflay et ses environs. Nous intervenons également sur commande lors d'événements variés.
 
 * **Le recyclage**
 
