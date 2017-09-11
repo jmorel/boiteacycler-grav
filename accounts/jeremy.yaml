@@ -8,6 +8,6 @@ access:
     login: 'true'
   site:
     login: 'true'
-hashed_password: $2y$10$23a.u28UkFLKcxGoCRjWSOuCM7lsZQJDi9ND5sPQNi4Dh4cNZ8T1u
+hashed_password: $2y$10$40DC3GiY4fcFWnTJRRUT2uojlf0lMustXkfdIn/spzgZr5ePSe9zS
 reset: '9f6f66faf53cb33652d14ebe694e54ab::1481802581'
 language: fr
