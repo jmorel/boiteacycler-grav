@@ -24,4 +24,3 @@ questions:
         answer: 'Pas besoin d''être un bon mécanicien pour trouver sa place à la Boîte à Cycler. Nous avons toujours besoin de bénévoles pour animer des ateliers, organiser un évènement, répondre aux mails, faire une affiche, ...'
 ---
 
-Hello hello ! Isn't this nice ?
