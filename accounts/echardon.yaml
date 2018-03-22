@@ -9,3 +9,5 @@ fullname: 'Eric Chardon'
 state: enabled
 hashed_password: $2y$10$6WQcaCLVwGtQtYCnhE7S1.hK2Fa5ROf4UYxFBfGEUIzUOaIW/OIeu
 language: fr
+login_attempts: {  }
+twofa_secret: OMG42RZ3B45OA6DUNTCHAACHCRWSFP6P

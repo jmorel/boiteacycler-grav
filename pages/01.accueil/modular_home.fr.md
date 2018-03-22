@@ -8,8 +8,8 @@ content:
 body_classes: modular
 order_by: ''
 order_manual: ''
-header_events_call_to_action: "Si vous avez des outils ou des vieux vélos à donner, nous sommes preneurs !  \r\n[Ce que nous en faisons](http://)"
 header_calendar_url: 'https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;hl=fr&amp;bgcolor=%23FFFFFF&amp;src=lc4dk8cpgped73qjcqtgo5eogo%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FParis'
+header_events_call_to_action: "Si pluie, repli à la Forge (89 Avenue du Général Leclerc, 78220 Viroflay)\r\n\r\nSi vous avez des outils ou des vieux vélos à donner, nous sommes preneurs !"
 header_calendar_id: lc4dk8cpgped73qjcqtgo5eogo@group.calendar.google.com
 header_google_api_key: AIzaSyB9LgfZ9mtmzckSjitTiSCf7ue74mdnM7I
 background:

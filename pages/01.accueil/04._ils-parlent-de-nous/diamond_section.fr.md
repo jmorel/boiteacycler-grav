@@ -13,5 +13,8 @@ quotes:
     -
         quote: 'Le président de Versailles Grand Parc, François de Mazières et toute l’équipe de l’Agglo tenaient à remercier vivement [la boite à cycler] pour [son] aide, [sa] participation et [son] enthousiasme qui ont permis de faire de cette première édition de la journée des Mobilité un grand succès !'
         author: 'Versailles grand parc'
+    -
+        quote: "Sur la place de Verdun (gare Chaville-Vélizy) proche du square de jeux d'enfants : \r\n\"La ville vous informe :\r\nBâtiment face square de Verdun\r\nInstallation d'un atelier associatif\r\n\"La Boîte à Cycler\" où l'on apprend à\r\nréparer et entretenir soi-même son\r\nvélo et installation sanitaire.\r\nOuverture prévue : Février 2018\""
+        author: 'La ville de Viroflay'
 ---
 
